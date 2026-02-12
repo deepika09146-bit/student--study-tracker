@@ -1,0 +1,6 @@
+print("Hello, this is my study tracker!")
+
+subject = input("Enter the subject you studied today: ")
+hours = input("How many hours did you study? ")
+
+print("You studied", subject, "for", hours, "hours today.")
